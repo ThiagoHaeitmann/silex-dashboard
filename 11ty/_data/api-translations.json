@@ -19,7 +19,8 @@
     "Welcome to Silex": "Welcome to Silex",
     "Please login to continue": "Please login to continue",
     "Failed to duplicate website": "Failed to duplicate website",
-    "Website duplicated successfully": "Website duplicated successfully"
+    "Website duplicated successfully": "Website duplicated successfully",
+    "Failed to get connectors": "Failed to get connectors"
   },
   "fr": {
     "Failed to start dashboard": "Erreur, impossible de démarrer le tableau de bord",
@@ -41,7 +42,8 @@
     "Welcome to Silex": "Bienvenue sur Silex",
     "Please login to continue": "Merci de vous connecter pour continuer",
     "Failed to duplicate website": "Erreur, le site n'a pas été dupliqué",
-    "Website duplicated successfully": "Le site a bien été dupliqué"
+    "Website duplicated successfully": "Le site a bien été dupliqué",
+    "Failed to get connectors": "Erreur, impossible de récupérer les connecteurs"
   },
   "pt": {
     "Failed to start dashboard": "Falha ao iniciar o painel",
@@ -63,6 +65,7 @@
     "Welcome to Silex": "Bem-vindo ao Silex",
     "Please login to continue": "Faça login para continuar",
     "Failed to duplicate website": "Falha ao duplicar o site",
-    "Website duplicated successfully": "Site duplicado com sucesso"
+    "Website duplicated successfully": "Site duplicado com sucesso",
+    "Failed to get connectors": "Falha ao carregar os conectores"
   }
 }
